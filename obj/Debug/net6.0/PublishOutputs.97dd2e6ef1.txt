@@ -1,0 +1,11 @@
+C:\Users\azizb\Desktop\MesplantApi\bin\Debug\net6.0\publish\MesplantApi.exe
+C:\Users\azizb\Desktop\MesplantApi\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\azizb\Desktop\MesplantApi\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\azizb\Desktop\MesplantApi\bin\Debug\net6.0\publish\MesplantApi.dll
+C:\Users\azizb\Desktop\MesplantApi\bin\Debug\net6.0\publish\MesplantApi.deps.json
+C:\Users\azizb\Desktop\MesplantApi\bin\Debug\net6.0\publish\MesplantApi.runtimeconfig.json
+C:\Users\azizb\Desktop\MesplantApi\bin\Debug\net6.0\publish\MesplantApi.pdb
+C:\Users\azizb\Desktop\MesplantApi\bin\Debug\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\azizb\Desktop\MesplantApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\azizb\Desktop\MesplantApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\azizb\Desktop\MesplantApi\bin\Debug\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
